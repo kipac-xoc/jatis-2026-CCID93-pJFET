@@ -1,1 +1,1 @@
-4000 MPixel/s spectrum dark and Fe55 image data
+4 MPixel/s spectrum dark and Fe55 image data
